@@ -26,7 +26,7 @@ NumPy for distance calculations
 
 
 ## 🎥 Project Explanation Video
-🎥 [Watch the Video](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_facedetection-ai-computervision-activity-7237469650450554880-Q7rZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
+🎥 [Watch the Video](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_eyeblinkcounter-ai-healthtech-activity-7237466614214836224-Qd6E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
 
 
 ## 🔥 How It Works
